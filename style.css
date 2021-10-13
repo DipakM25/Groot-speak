@@ -36,7 +36,7 @@ textarea {
   border: 1px solid black;
 }
 ::placeholder {
-  color: whitesmoke;
+  color: rgb(112, 107, 107);
   opacity: 1;
 }
 
